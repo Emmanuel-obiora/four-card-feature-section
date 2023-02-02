@@ -1,0 +1,29 @@
+.head-main{
+    display: flex;
+    flex-direction: column;
+    width: 27rem;
+    height: max-content;
+    text-align: center;
+    margin-bottom: auto;
+    align-self: center;
+    justify-self: center;
+    gap: .5rem;
+    margin-top: 1rem;
+}
+
+.head-main > h1{
+    display: block;
+    color: var(--VeryDarkBlue);
+    font-weight: 600;
+    line-height: 1.1;
+}
+
+.head-col{
+    color: var(--GrayishBlue);
+    font-size: 28px;
+}
+
+.head-main > p{
+    font-size: 12.5px;
+    color: var(--GrayishBlue);
+}

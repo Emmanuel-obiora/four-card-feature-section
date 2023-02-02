@@ -1,0 +1,37 @@
+.main{
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    align-self: center;
+    justify-self: center;
+    width: 61rem;
+    height: 27.5rem;
+}
+
+article{
+    display: grid;
+    width: 310px;
+    height: 210px;
+    padding: 1.5rem;
+    background: var(--VeryLightGray);
+    box-shadow: 0 5px 7px 1px #d3deeb;
+    border-radius: 8px;
+    position: absolute;
+}
+
+article > h2{
+    color: var(--VeryDarkBlue);
+}
+
+article > p{
+    color: var(--GrayishBlue);
+    font-size: 12.5px;
+}
+
+.movables{
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+}
