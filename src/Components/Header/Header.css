@@ -27,3 +27,16 @@
     font-size: 12.5px;
     color: var(--GrayishBlue);
 }
+
+@media screen and (max-width: 37.5rem){
+    .head-main{
+        width: 22rem;
+        gap: 1rem;
+        margin-top: 3rem;
+    }
+
+    .head-main > p{
+        font-size: 19px;
+        line-height: 1.3;
+    }
+}
