@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e0922a8.css",
-    "main.js": "/static/js/main.eab5d089.js",
-    "static/media/icon-karma.svg": "/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
-    "static/media/icon-supervisor.svg": "/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
-    "static/media/icon-team-builder.svg": "/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
-    "static/media/icon-calculator.svg": "/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
-    "index.html": "/index.html",
-    "main.9e0922a8.css.map": "/static/css/main.9e0922a8.css.map",
-    "main.eab5d089.js.map": "/static/js/main.eab5d089.js.map"
+    "main.css": "/four-card-feature-section/static/css/main.9e0922a8.css",
+    "main.js": "/four-card-feature-section/static/js/main.b6905c63.js",
+    "static/media/icon-karma.svg": "/four-card-feature-section/static/media/icon-karma.24e0debeb1e51eaa14e295270e33df54.svg",
+    "static/media/icon-supervisor.svg": "/four-card-feature-section/static/media/icon-supervisor.2dd10a2df2ddca34f77ca6a2065c6be2.svg",
+    "static/media/icon-team-builder.svg": "/four-card-feature-section/static/media/icon-team-builder.b885fb580a3cb78c9ad249750dd65a01.svg",
+    "static/media/icon-calculator.svg": "/four-card-feature-section/static/media/icon-calculator.21bc9adc97d084a64aedb386f1e35c0d.svg",
+    "index.html": "/four-card-feature-section/index.html",
+    "main.9e0922a8.css.map": "/four-card-feature-section/static/css/main.9e0922a8.css.map",
+    "main.b6905c63.js.map": "/four-card-feature-section/static/js/main.b6905c63.js.map"
   },
   "entrypoints": [
     "static/css/main.9e0922a8.css",
-    "static/js/main.eab5d089.js"
+    "static/js/main.b6905c63.js"
   ]
 }
