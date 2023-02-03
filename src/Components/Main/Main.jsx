@@ -7,12 +7,12 @@ import Right from '../Articles/Right/Right'
 
 const Main = () => {
     return (
-        <div className='main'>
+        <main className='main'>
             <Left />
             <Top />
             <Bottom />
             <Right />
-        </div>
+        </main>
     )
 }
 
