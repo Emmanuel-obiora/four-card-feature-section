@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Emmanuel-obiora/four-card-feature-section)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://emmanuel-obiora.github.io/four-card-feature-section)
 
 ## My process
 
